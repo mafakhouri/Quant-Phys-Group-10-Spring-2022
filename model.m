@@ -1,3 +1,6 @@
+%April 27, 2022
+%Mahmoud Fakhouri, Kelsey Audux, Nicole Buenavida
+%University of Florida
 clc; clear;
 
 %As velocity increases, the rate of bonds breaking over time increases
